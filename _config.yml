@@ -1,0 +1,28 @@
+name: cs design
+favicon: null
+layout_spectrum: 0.07630626927129924
+typography_spectrum: 0.8024825791362673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6447958413045853
+  lightness: 0.7961760780308396
+  saturation: 0.17831080127507448
+  rhythmicContrast: 0.9491258368361741
+purpose: []

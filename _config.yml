@@ -1,7 +1,7 @@
 name: cs design
 favicon: null
-layout_spectrum: 0.07630626927129924
-typography_spectrum: 0.8024825791362673
+layout_spectrum: 1
+typography_spectrum: 0.49864
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#464646'
+    - '#a8a8a8'
+    - '#00ff01'
+    - '#8b8b8b'
   brandStrength: 0.6447958413045853
   lightness: 0.7961760780308396
   saturation: 0.17831080127507448
